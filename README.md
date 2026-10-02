@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @destjones
 - 👀 I’m interested in expanding my knowledge
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python, Machine Learning, and Cybersecurity
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: destinyj8899@gmail.com
 <!---
